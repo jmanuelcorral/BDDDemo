@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDDemo", "BDDDemo\BDDDemo.csproj", "{C1ABF3E5-1D74-45C7-883B-45F912964F9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDTests", "BDDTests\BDDTests.csproj", "{D04C298A-6DDD-44F1-968C-54C86CAD9D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1ABF3E5-1D74-45C7-883B-45F912964F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ABF3E5-1D74-45C7-883B-45F912964F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ABF3E5-1D74-45C7-883B-45F912964F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ABF3E5-1D74-45C7-883B-45F912964F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04C298A-6DDD-44F1-968C-54C86CAD9D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C298A-6DDD-44F1-968C-54C86CAD9D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C298A-6DDD-44F1-968C-54C86CAD9D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C298A-6DDD-44F1-968C-54C86CAD9D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0A99F15-0CFE-4C32-B3BB-1667DFC1E1F3}
+	EndGlobalSection
+EndGlobal
